@@ -20,7 +20,7 @@ times table idea of generating beautiful graphic patterns, made in C and SDL2.
 
 ## Compiling, running and cleaning.
 ```sh
-make                # gcc -o cardioid src/cardioid.c -Wall -Wextra -Ofast
+make                # 
 make run            # ./cardioid
 make clean          # rm sic objs/sic.o
 ```
